@@ -1,4 +1,3 @@
-<<<<<<< HEAD
+
 Saturday Sunday
-========
->>>>>>> add6514 (fixed foo in fix1)
+
