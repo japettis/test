@@ -1,11 +1,1 @@
-<<<<<<< HEAD
- Hello you people
-=======
- Hello Jakena Pettis
->>>>>>> newfeature2
-
-Glad you could join us.
-
-Welcome back.
-
-Roundabout
+Friday
