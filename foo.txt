@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-Friday Saturday Sunday
-Jakena Pettis
-Fun about to begin
-Groundhog day
-=======
 
->>>>>>> 55ba9fa (Removed lines from foo)
 Change from someone else
+Jakena Pettis
+
